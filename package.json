@@ -2,6 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://rolandmvn.github.io/myportfolio",
   "dependencies": {
     "@react-pdf/renderer": "^2.2.0",
     "@testing-library/jest-dom": "^5.16.2",
@@ -36,7 +37,6 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://rolandmvn.github.io/myportfolio",
   "browserslist": {
     "production": [
       ">0.2%",
