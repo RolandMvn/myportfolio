@@ -36,7 +36,7 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://RolandMvn.github.io/myportfolio",
+  "homepage": "https://rolandmvn.github.io/myportfolio",
   "browserslist": {
     "production": [
       ">0.2%",
