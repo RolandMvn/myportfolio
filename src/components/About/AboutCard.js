@@ -18,9 +18,9 @@ function AboutCard() {
             I strive to make a positive impact in the world one day through my technological skills of developing software.
           </p>
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Every thread of kindness and compassion contributes to a world woven with hope and brightness."{" "}
+          "Be the change that you wish to see in the world."{" "}
           </p>
-          <footer className="blockquote-footer">Roland Manvelyan</footer>
+          <footer className="blockquote-footer">Mahatma Gandhi</footer>
         </blockquote>
       </Card.Body>
     </Card>
